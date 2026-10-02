@@ -11,5 +11,9 @@
   "release_notes_de": [
     "Verbesserte Update-Funktion",
     "Kleinere Fehlerbehebungen"
-  ]
+  ],
+  "integration_versions": {
+  "vscode": "0.0.1",
+  "eclipse": "1.0.1"
+  }
 }
