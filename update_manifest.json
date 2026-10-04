@@ -13,7 +13,7 @@
     "Kleinere Fehlerbehebungen"
   ],
   "integration_versions": {
-  "vscode": "110.0.1",
-  "eclipse": "81.0.1"
+  "vscode": "1110.0.1",
+  "eclipse": "811.0.1"
   }
 }
