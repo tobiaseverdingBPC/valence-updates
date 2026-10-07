@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "download_url": "https://github.com/tobiaseverdingBPC/valence-updates/releases/download/v1.0.2/BPCValence.exe",
     "release_notes_en": [
     "Improved update handling",
@@ -13,7 +13,7 @@
     "Kleinere Fehlerbehebungen"
   ],
   "integration_versions": {
-  "vscode": "11110.0.1",
-  "eclipse": "8111.0.1"
+  "vscode": "112110.0.1",
+  "eclipse": "28111.0.1"
   }
 }
